@@ -1,7 +1,0 @@
-! UKS wB97X-D3 def2-TZVP TightSCF
-
-%tddft
-  nroots 6
-end
-
-* xyzfile 0 2 oclo_opt.xyz
