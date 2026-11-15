@@ -1,0 +1,9 @@
+! UKS LibXC(B3LYP) def2-TZVP TightSCF Opt RIJONX
+
+%tddft
+  nroots 5
+  iroot 3
+  followiroot true
+end
+
+* xyzfile 0 2 oclo_opt.xyz
